@@ -1,4 +1,6 @@
 streamlit
-textblob
-deep-translator
 pandas
+numpy
+requests
+matplotlib
+wordcloud
